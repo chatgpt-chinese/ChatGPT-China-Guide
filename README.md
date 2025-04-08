@@ -6,7 +6,7 @@
 无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://chat.yixiaai.com)**，并提供官网注册教程和常见问题解答。
 
 **ChatGPT 中文版入口：[https://chat.yixiaai.com/](https://chat.yixiaai.com/)**     
-**ChatGPT 镜像网站：[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**
+**ChatGPT 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
 
