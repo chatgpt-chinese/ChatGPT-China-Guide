@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025年6月 更新】
 
-> **更新时间：2025/06/07**          
+> **更新时间：2025/06/11**          
 
 全面体验 **[ChatGPT 中文版](https://chat.lanjing.pro) 使用指南**，精选国内优质镜像网站，支持 **GPT-4o、GPT-4、o1、o3 和 DeepSeek R1** 等多款模型，无需翻墙即可访问。   
 无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://xsimplechat.com)**，并提供官网注册教程和常见问题解答。
 
 **ChatGPT 中文版入口：[https://xsimplechat.com/](https://xsimplechat.com/)**     
-**ChatGPT 镜像网站：[https://chat.chatgpt-chinese.com](https://chat.lanjing.pro)**
+**ChatGPT 镜像网站：[https://chat.lanjingai.org](https://chat.lanjing.pro)**
 
 ---
 
